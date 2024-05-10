@@ -1,0 +1,54 @@
+.con {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    color: #124e66;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.h2class {
+    text-align: center;
+}
+
+.add-doctor-form {
+    margin-top: 20px;
+}
+
+.form-grop {
+    margin-bottom: 20px;
+}
+
+.lbl {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.btns {
+    background-color: #124e66; 
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.btns:hover {
+    background-color: #fff;
+    color: #124e66;
+}

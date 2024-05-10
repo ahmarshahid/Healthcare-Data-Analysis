@@ -1,0 +1,57 @@
+
+.holder {
+     font-family: Arial, sans-serif;
+    background-color: #124E66;
+    color: white;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); 
+    border-radius: 10px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .conIn[type="text"],
+  .conIn[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #124E66;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  .h{
+    color: #124E66;
+  }
+  
+  .buttonSub {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #124E66;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .buttonSub:hover {
+    background-color: #0c3345;
+  }
+  

@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+.about{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    margin-top: 30px;
+}
+.imgg{
+    height: 60vh;
+    margin-right: 80px;
+    margin-left: 50px;
+}
+
+
+.text_div{
+    text-wrap: wrap;
+    padding-left: 90px;
+    margin-left: 70px;
+    margin-right: 60px;
+}
+
+.abt_line{
+    color: #124E66;
+background-color: #124E66;
+}
+.ceo{
+    color: #748d92;
+}
